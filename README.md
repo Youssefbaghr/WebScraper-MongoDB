@@ -1,4 +1,5 @@
 #WebScraper-MongoDB
+
 Description
 This Python-based project is a web scraping and content analysis tool that extracts information from websites, performs various analyses on the gathered data, and stores the insights in a MongoDB database. The project utilizes the BeautifulSoup library for web sProject Titlecraping, MongoDB for database storage, and provides functionalities for extracting paragraphs, headings, links, and performing content analysis such as word count, sentence count, average content length, average sentence length, and keyword occurrences.
 
